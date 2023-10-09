@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marjau, Marcos from Mexico, a passionate open-source developer.
 - 👀 I’m interested in building microservices solutions.
-- 🌱 I’m currently working and exciting Golang, where I wish to specialize.
-- 💞️ I’m looking to collaborate on microservices projects based on Golang.
+- 🌱 I enjoy playing with Golang, where I wish to become an expert.
+- 💞️ I want to collaborate on microservices projects based on protocol buffers and Golang.
 - 📫 Reach me by my email account...
 
 <!---
